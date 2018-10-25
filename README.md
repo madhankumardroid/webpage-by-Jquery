@@ -1,2 +1,2 @@
 # webpage-by-Jquery
-We inilitize this repository to build an webpage by using jQuery.
+We created this repository to build a webpage using jQuery.
